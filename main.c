@@ -26,6 +26,6 @@ int main(void)
     }
 
     printf("%.3f\n", v);
-
+ 
     return 0;
 }
